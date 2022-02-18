@@ -3,9 +3,9 @@ Author: Octavio Espinoza
 
 Languanges used : 
 
-  ARDUINO (subset of C# and C++), 
+  1.ARDUINO (subset of C# and C++), 
   
-  Python 
+  2.Python 
   
 
 Code made for XFAR(Extinguising Fire Audio Resonator) A modern approach to eliminate fires with low frequency sound waves.
